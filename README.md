@@ -1,2 +1,2 @@
-# tyleransom.github.io
-Repository for Tyler Ransom's academic research website.
+# YuqiLiu0926.github.io
+Repository for Yuqi Liu's academic research website.
